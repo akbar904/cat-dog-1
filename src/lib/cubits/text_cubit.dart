@@ -7,7 +7,7 @@ class TextCubit extends Cubit<TextState> {
 
 	void changeText() {
 		if (state.text == 'Cat') {
-			emit(TextState(text: 'Dog'));
+			emit(TextState(text: 'Bird'));
 		} else {
 			emit(TextState(text: 'Cat'));
 		}
