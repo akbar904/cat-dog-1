@@ -1,5 +1,5 @@
 name: com.walturn.flutter_app
-description: A simple Flutter application to switch between displaying 'Cat' and 'Dog' text using the Cubit pattern for state management.
+description: A simple Flutter application to switch between displaying 'Cat' and 'Bird' text using the Cubit pattern for state management.
 version: 1.0.0
 environment:
   sdk: ">=2.12.0 <3.0.0"
