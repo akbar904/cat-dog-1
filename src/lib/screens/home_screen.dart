@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:com.walturn.flutter_app/cubits/text_cubit.dart';
-import 'package:com.walturn.flutter_app/models/text_state.dart';
+import '../cubits/text_cubit.dart';
+import '../models/text_state.dart';
 
 class HomeScreen extends StatelessWidget {
 	@override
